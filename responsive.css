@@ -1,0 +1,437 @@
+@media (max-width: 1457px) {
+  .sec2-cont .sec2-cont-box3 h1 {
+    position: absolute;
+    top: 20px;
+    right: 10%;
+  }
+  .sec2-cont .sec2-cont-box3 .para {
+    right: 9%;
+  }
+}
+@media (max-width: 1281px) {
+  .slider-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 11px;
+    padding: 65px 25px;
+  }
+}
+@media (max-width: 1250px) {
+  .book-table .main-table {
+    padding: 80px 0;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    max-width: 800px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+  }
+  .main-table .table1 {
+    padding-right: 10px;
+  }
+  .main-table .table2 form input {
+    width: 100%;
+  }
+  .main-table .table2 {
+    margin-left: 50px;
+  }
+}
+@media (max-width: 1224px) {
+  .our-special .special {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .special .special-box {
+    width: 300px;
+  }
+}
+@media (max-width: 1117px) {
+  .sec2-cont .sec2-cont-box3 .para {
+    font-size: 14px;
+  }
+}
+@media (max-width: 998px) {
+  .customer-rewiew {
+    width: 100%;
+    text-align: center;
+  }
+  .pizza-img .main-pizza-img {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding: 11px 25px;
+  }
+  .customer-rewiew h1 {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .wall-img img {
+    height: 600px;
+    margin-left: 0px;
+  }
+  .slider-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 11px;
+    padding: 80px 25px;
+  }
+  .wall-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pizza-img {
+    width: 100%;
+    margin-top: 0px;
+    height: auto;
+  }
+}
+@media (max-width: 968px) {
+  .tab-items .tab-img {
+    display: block;
+  }
+  .current {
+    display: flex;
+    justify-content: space-evenly;
+    opacity: 1;
+  }
+  .tab-items {
+    margin: 0 auto;
+    max-width: 1100px;
+  }
+  .tab-items .tab-img .tb-img {
+    margin-top: 20px;
+  }
+  .tab-items .tab-img .biscuit {
+    margin-top: 0;
+  }
+}
+@media (max-width: 959px) {
+  .sec2-cont .sec2-cont-box3 .para {
+    font-size: 11px;
+  }
+}
+@media (max-width: 896px) {
+  .our-special .special {
+    max-width: 690px;
+    margin: 0 auto;
+  }
+  .special .special-box {
+    width: 230px;
+  }
+}
+@media (max-width: 854px) {
+  .book-table .main-table {
+    padding: 80px 0;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    max-width: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+  }
+  .main-table .table1 {
+    padding-right: 10px;
+  }
+  .main-table .table2 form input {
+    width: 100%;
+  }
+  .main-table .table2 {
+    margin-left: 50px;
+  }
+  .main-table .table1 h1 {
+    font-size: 45px;
+    font-weight: bold;
+  }
+  .contact > p {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .contact {
+    width: 305px;
+  }
+}
+@media (max-width: 768px) {
+  .sec2-img {
+    position: relative;
+    height: 110px;
+    width: 100%;
+    overflow: hidden;
+  }
+  header .box2 {
+    width: 70px;
+    margin-right: 50px;
+  }
+  .sec2-img h1 {
+    font-size: 13px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+  }
+
+  .sec2-img img {
+    position: absolute;
+    z-index: -1;
+    right: 12%;
+    height: 120px;
+    width: 120px;
+  }
+  .sec2 .message {
+    position: absolute;
+    font-size: 7px;
+    top: 10px;
+    right: 3%;
+    height: 25px;
+    width: 83px;
+  }
+  @keyframes slan {
+    0% {
+      transform: translateY(-7px);
+    }
+    100% {
+      transform: translateY(6px);
+    }
+  }
+}
+@media (max-width: 764px) {
+  .book-table .main-table {
+    display: block;
+    max-width: 600px;
+  }
+  .main-table .table1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 0;
+  }
+  .main-table .table1 > p {
+    text-align: center;
+  }
+  .main-table .table2 {
+    margin-left: 0px;
+    margin-top: 50px;
+  }
+}
+@media (max-width: 759px) {
+  .sec2-cont .sec2-cont-box2 {
+    display: none;
+  }
+  .sec2-cont .sec2-cont-box1 {
+    display: none;
+  }
+  .sec2-cont .sec2-cont-box3 .para {
+    position: static;
+    font-size: 15px;
+  }
+  .sec2-cont .sec2-cont-box3 h1 {
+    position: static;
+    font-size: 2.5rem;
+    margin-top: -100px;
+    margin-bottom: 70px;
+  }
+  .sec2-cont .sec2-cont-box3 {
+    font-family: "Poppins", sans-serif;
+    color: white;
+    position: static;
+    width: 100%;
+    height: auto;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .sec2 .sec2-cont {
+    position: relative;
+    height: 400px;
+    background: url(slandi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: overlay;
+  }
+}
+@media (max-width: 748px) {
+  .tab-section .main-tab .li-tab {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #121619;
+    max-width: 739px;
+    margin: 0 auto;
+    border-radius: 100px;
+    margin-bottom: 70px;
+  }
+}
+@media (max-width: 705px) {
+  header .box2 {
+    display: none;
+  }
+  header .box1 {
+    display: none;
+  }
+  header .box3 {
+    display: none;
+  }
+  header {
+    display: flex;
+    justify-content: flex-end;
+  }
+  header .box-line {
+    display: block;
+    padding: 7px 0;
+    cursor: pointer;
+  }
+  header .box-line .line2 {
+    margin: 4px 0;
+  }
+}
+@media (max-width: 690px) {
+  .sec2-items {
+    margin-top: 0.5px;
+    height: auto;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+  }
+  .sec2-items .sec2-items-box {
+    width: 100%;
+  }
+  .sec2-items .overflow-secure {
+    margin-top: 0px;
+    display: block;
+    overflow-x: unset;
+  }
+}
+@media (max-width: 692px) {
+  .special .special-box {
+    float: none;
+  }
+  .special {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width: 643px) {
+  .content p {
+    line-height: 30px;
+    letter-spacing: 0px;
+  }
+  .current {
+    display: block;
+  }
+  .tab-items .tab-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tab-section .main-tab li {
+    list-style: none;
+    padding: 3px 13px;
+    border-radius: 100px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .soda {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (max-width: 573px) {
+  .content p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 541px) {
+  .content p {
+    font-size: 13px;
+  }
+  .slider-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 11px;
+    padding: 60px 25px;
+  }
+}
+@media (max-width: 467px) {
+  .content p {
+    font-size: 11px;
+  }
+  .sec1 h1 {
+    font-size: 1.5rem;
+  }
+  .content h2 {
+    font-size: 1.5rem;
+  }
+  .content h3 {
+    font-size: 2.5rem;
+  }
+  .slider-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 11px;
+    padding: 50px 25px;
+  }
+}
+@media (max-width: 419px) {
+  .sec2-cont .sec2-cont-box3 .para {
+    font-size: 12px;
+  }
+  .sec2-cont .sec2-cont-box3 h1 {
+    font-size: 2rem;
+  }
+  .slider-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 11px;
+    padding: 50px 15px;
+    font-size: 14px;
+  }
+  .special h1 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 395px) {
+  .content p {
+    font-size: 9px;
+  }
+  .box5 input:focus {
+    width: 170px;
+  }
+  .wall-img img {
+    height: 500px;
+    margin-left: 0;
+  }
+  .pizza-img .main-pizza-img {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding: 11px 25px;
+  }
+}
+@media (max-width: 350px) {
+  .slider-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 11px;
+    padding: 65px 10px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 333px) {
+  .sec2-cont .sec2-cont-box3 .para {
+    font-size: 11px;
+  }
+  .sec2-cont .sec2-cont-box3 h1 {
+    font-size: 1.7rem;
+  }
+}
