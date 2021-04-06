@@ -408,6 +408,9 @@
   .special h1 {
     font-size: 40px;
   }
+  .sec2-cont{
+    display:none;
+  }
 }
 @media (max-width: 395px) {
   .content p {
@@ -428,6 +431,9 @@
     margin: 0 auto;
     padding: 11px 25px;
   }
+   .sec2-cont{
+    display:none;
+  }
 }
 @media (max-width: 350px) {
   .slider-text {
@@ -437,6 +443,9 @@
     padding: 65px 10px;
     font-size: 12px;
   }
+   .sec2-cont{
+    display:none;
+  }
 }
 @media (max-width: 333px) {
   .sec2-cont .sec2-cont-box3 .para {
@@ -444,5 +453,8 @@
   }
   .sec2-cont .sec2-cont-box3 h1 {
     font-size: 1.7rem;
+  }
+   .sec2-cont{
+    display:none;
   }
 }
